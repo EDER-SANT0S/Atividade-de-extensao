@@ -1,6 +1,6 @@
 # Explorando o Markdown
 
-Este arquivo apresenta recursos básicos da linguagem **Markdown**.
+Este arquivo apresenta recursos básicos da linguagem **Markdown**. Ele pode ser usado em diversas situações. 
 
 ## 1. Ênfase no texto
 
